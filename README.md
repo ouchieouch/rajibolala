@@ -1,2 +1,2 @@
 # terraform
-Terraform repositories for multiple providers.
+Terraform module repository for multiple providers.
